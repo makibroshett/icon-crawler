@@ -1,0 +1,8 @@
+{
+	"name": "icon-crawler"
+	, "description": "a web service to retrieve the icon of a website"
+	, "version": "0.0.1"
+	, "keywords": ["web-service", "image", "sample"]
+	, "repository": {}
+}
+	
